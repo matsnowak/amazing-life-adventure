@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{7BC9A5FE-532E-416E-BC41-D96EF8BD80D7}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\rexilion\Desktop\XNA Games Studio\Game Development\LifeFall.TunnelPath\LifeFall\LifeFall\LifeFallContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\rexilion\Desktop\XNA Games Studio\Game Development\LifeFall.TunnelPath\LifeFall\LifeFall\LifeFall\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\rexilion\Desktop\XNA Games Studio\Game Development\LifeFall.TunnelPath\LifeFall\LifeFall\LifeFall\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\rexilion\Desktop\XNA Games Studio\Game Development\LifeFall.TunnelPath\LifeFall\LifeFall\LifeFall\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-03-06T10:56:45.7058879+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

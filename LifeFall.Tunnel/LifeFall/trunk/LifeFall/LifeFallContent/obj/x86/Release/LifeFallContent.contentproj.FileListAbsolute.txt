@@ -1,0 +1,2 @@
+C:\Users\rexilion\Desktop\XNA Games Studio\Game Development\LifeFall.Tunnel\LifeFall\trunk\LifeFall\LifeFallContent\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Personal\Desktop\GameDevelopment\LifeFall.Tunnel\LifeFall\trunk\LifeFall\LifeFallContent\obj\x86\Release\LifeFallContent.contentprojResolveAssemblyReference.cache

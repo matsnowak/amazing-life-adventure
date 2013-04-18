@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifeFall", "LifeFall\LifeFall\LifeFall.csproj", "{107B47B4-2005-4D92-AF73-45001A51EBB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifeFallContent", "LifeFall\LifeFallContent\LifeFallContent.contentproj", "{7970AE32-3DAB-4540-AC3A-13065E5CC00D}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{107B47B4-2005-4D92-AF73-45001A51EBB0}.Debug|x86.ActiveCfg = Debug|x86
+		{107B47B4-2005-4D92-AF73-45001A51EBB0}.Debug|x86.Build.0 = Debug|x86
+		{107B47B4-2005-4D92-AF73-45001A51EBB0}.Release|x86.ActiveCfg = Release|x86
+		{107B47B4-2005-4D92-AF73-45001A51EBB0}.Release|x86.Build.0 = Release|x86
+		{7970AE32-3DAB-4540-AC3A-13065E5CC00D}.Debug|x86.ActiveCfg = Debug|x86
+		{7970AE32-3DAB-4540-AC3A-13065E5CC00D}.Release|x86.ActiveCfg = Release|x86
+		{7970AE32-3DAB-4540-AC3A-13065E5CC00D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
